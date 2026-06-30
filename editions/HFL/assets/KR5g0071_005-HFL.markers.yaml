@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR5g0071/HFL/v1/markers/5
+seq: 5
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0071_HFL_005-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5g0071_HFL_005-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5g0071_HFL_005-bkkkrnewl2}
+  back: []
+hash: sha256:c0f81c05fbec68ff0d03175cd80cb10a5eded891ae92b1ca60ab5a9d00fc4f22

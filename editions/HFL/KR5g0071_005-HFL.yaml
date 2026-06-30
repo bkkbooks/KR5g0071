@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5g0071/HFL/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 會
+  hash: sha256:26a10362b1e311e355c4168031190c7b1d44a1e1c964c525ed5e6a985a4cd6de
+metadata:
+  title: 意林
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-09-11 04:00:26.149006'
+  source:
+    repository: kanripo
+    path: KR5g0071/KR5g0071_005.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:d7ac5b7daec342648214f287c9f147c8bd4aa3497b960ffc8ff342ca8eb290f1
