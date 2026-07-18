@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 462, content: 御製題武英殿聚珍版十韻有序校輯永樂大典内之散零編並蒐訪天下遺籍不下萬餘種彚爲四庫全書擇人所罕覯有裨世道人心及足資考鏡者剞劂流傳嘉惠來學苐種多則付雕非易董武英殿事金以活字法爲請旣不濫費棗棃又不久淹歲月用力省而程功速至簡且捷考昔沈括筆談記宋慶歴中有畢昇爲活版以膠泥燒成而陸深金臺紀聞則云毘陵人初用鉛字視版印尤巧便斯皆活版之權輿顧埏泥體麤鎔鉛質輭俱不及鋟木之工緻兹刻單字計二十五萬餘雖數百十種之書悉可取給而校讐之精今更有勝於古所云者苐活字版之名不雅馴因以聚珍名之而系以詩稽古搜四庫於今突五車開鐫思壽世積版或充閭張帖唐院集周文梁代餘同爲製活字用以印全書精越鶡冠體昨歲江南所進之書有鶡冠子卽活字版苐字體不工且多訛謬耳富過鄴架儲機圓省雕氏功倍謝鈔胥聯腋事堪例埏泥法似疎毀銅昔悔彼康年間編纂古今圖書集成刻銅字爲活版排印蕆工貯之武英殿歴年旣久銅字或被缺少司事者懼干咎適値乾隆初年京師錢貴遂請毁銅字供鑄從之所得有限而所耗甚多巳爲非計且使銅字尙存則今之印書不更事半功倍乎深爲惜之刊木此慙予旣復羨棃棗還教愼魯魚成編示來學嘉惠志符初乾隆甲午仲夏御題, HFL: ''}
   - {type: variant, offset: 0, length: 462, content: 御製題武英殿聚珍版十韻有序校輯永樂大典内之散零編並蒐訪天下遺籍不下萬餘種彚爲四庫全書擇人所罕覯有裨世道人心及足資考鏡者剞劂流傳嘉惠來學苐種多則付雕非易董武英殿事金以活字法爲請旣不濫費棗棃又不久淹歲月用力省而程功速至簡且捷考昔沈括筆談記宋慶歴中有畢昇爲活版以膠泥燒成而陸深金臺紀聞則云毘陵人初用鉛字視版印尤巧便斯皆活版之權輿顧埏泥體麤鎔鉛質輭俱不及鋟木之工緻兹刻單字計二十五萬餘雖數百十種之書悉可取給而校讐之精今更有勝於古所云者苐活字版之名不雅馴因以聚珍名之而系以詩稽古搜四庫於今突五車開鐫思壽世積版或充閭張帖唐院集周文梁代餘同爲製活字用以印全書精越鶡冠體昨歲江南所進之書有鶡冠子卽活字版苐字體不工且多訛謬耳富過鄴架儲機圓省雕氏功倍謝鈔胥聯腋事堪例埏泥法似疎毀銅昔悔彼康年間編纂古今圖書集成刻銅字爲活版排印蕆工貯之武英殿歴年旣久銅字或被缺少司事者懼干咎適値乾隆初年京師錢貴遂請毁銅字供鑄從之所得有限而所耗甚多巳爲非計且使銅字尙存則今之印書不更事半功倍乎深爲惜之刊木此慙予旣復羨棃棗還教愼魯魚成編示來學嘉惠志符初乾隆甲午仲夏御題, ZTDZ: ''}
   - {type: punctuation, offset: 11, content: (, id: KR5g0071_krp_000-bkkpn1}
+  - {type: 'voice:problem', offset: 11, length: 0, id: KR5g0071_bkk_000-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 11}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR5g0071_krp_000-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -16,6 +17,7 @@ markers:
       ', id: KR5g0071_krp_000-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR5g0071_SBCK_000-1a02}
   - {type: indent, offset: 0, content: 　, id: KR5g0071_krp_000-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR5g0071_bkk_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 6, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: 'kr:non-cjk', offset: 9, content: ⬤, id: KR5g0071_krp_000-bkkkrnonc1}
   - {type: substitution, offset: 12, original: 蒐, replacement: 搜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17420}}
@@ -1021,4 +1023,4 @@ markers:
 
       ', id: KR5g0071_krp_000-bkkkrnewl164}
   back: []
-hash: sha256:91523afd924ed2bb45afe8b7c1c173108ad4dd8e8c5ea5cf4817b5aeb113494d
+hash: sha256:bb4699620390538d53a32bd35872069aa1b2d34c4fc5b5c0d14ffec17370bf8e

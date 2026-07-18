@@ -12,6 +12,7 @@ markers:
   - {type: variant, offset: 3, length: 5, content: 六照宋刻全, HFL: 序云夫道}
   - {type: page-break, offset: 3, content: '', id: KR5g0071_HFL_005-002a, image: hfl/1001/1001-006.png}
   - {type: punctuation, offset: 4, content: (, id: KR5g0071_krp_006-bkkpn1}
+  - {type: 'voice:problem', offset: 4, length: 0, id: KR5g0071_bkk_006-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 4}
   - {type: variant, offset: 9, length: 40, content: 補萬機論八卷蔣濟甲作乙婦丙來殺乙而甲不知後甲遂嫁與丙作妻生二子丙乃語甲甲因丙醉殺, HFL: 仁義五經以經}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR5g0071_krp_006-bkkpn1}
@@ -20,6 +21,7 @@ markers:
       ', id: KR5g0071_krp_006-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR5g0071_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR5g0071_krp_006-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR5g0071_bkk_006-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 5, content: (, id: KR5g0071_krp_006-bkkpn2}
   - {type: punctuation, offset: 7, content: ), id: KR5g0071_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 7, content: '
@@ -1019,4 +1021,4 @@ markers:
 
       ', id: KR5g0071_krp_006-bkkkrnewl163}
   back: []
-hash: sha256:8c7d6d5d2bffe05c316e8d41f0f44ec838fa4f9183db2df02bbb38d3de82acad
+hash: sha256:9cf4115f199455b070a316f5e3e7efb93777f6f16b6291bacb40bb5afac42ca6
